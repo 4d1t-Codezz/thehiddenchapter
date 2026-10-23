@@ -22,9 +22,9 @@ def main():
             target.write_bytes(base64.b64decode(blob["content"]))
         print("Downloaded existing public website."); return
     # Explicit allowlist prevents accidental upload of credentials or workspace data.
-    files=[*ROOT.glob("*.html"),*ROOT.glob("*.css"),*ROOT.glob("*.js"),ROOT/".nojekyll",ROOT/"README.md",ROOT/"build_site.py",ROOT/"sync_github.py",ROOT/"catalog.json",ROOT/"social-posts.md"]
+    files=[*ROOT.glob("*.html"),*ROOT.glob("*.css"),*ROOT.glob("*.js"),ROOT/".nojekyll",ROOT/"README.md",ROOT/"build_site.py",ROOT/"sync_github.py",ROOT/"catalog.json",ROOT/"social-posts.md",ROOT/"facebook-images.zip"]
     for folder in ("books","niches","assets","posts"):
-        files += [p for p in (ROOT/folder).rglob("*") if p.is_file() and p.suffix in (".html",".svg",".json")]
+        files += [p for p in (ROOT/folder).rglob("*") if p.is_file() and p.suffix in (".html",".svg",".json",".jpg",".png",".webp")]
     entries=[]
     old={e["path"]:e["sha"] for e in tree["tree"] if e["type"]=="blob"}
     import hashlib
@@ -37,7 +37,7 @@ def main():
         entries.append({"path":rel,"mode":"100644","type":"blob","sha":blob["sha"]})
     if not entries: print("No changes to publish."); return
     created=api("git/trees","POST",{"base_tree":tree["sha"],"tree":entries})
-    commit=api("git/commits","POST",{"message":"Build niche book catalog and Facebook post drafts","tree":created["sha"],"parents":[parent]})
+    commit=api("git/commits","POST",{"message":"Replace placeholders with publisher book covers and reusable post images","tree":created["sha"],"parents":[parent]})
     api("git/refs/heads/main","PATCH",{"sha":commit["sha"],"force":False})
     print("Published commit "+commit["sha"])
 if __name__=="__main__": main()

@@ -13,7 +13,13 @@
       "skip": "Choose something else if you want a memoir or an academic research survey rather than a practical self-improvement book.",
       "takeaway": "Look for a change to your environment that makes a useful action easier to repeat.",
       "source": "https://jamesclear.com/books",
-      "post": "A useful routine needs more than a burst of motivation. Atomic Habits by James Clear explores small changes, everyday systems, and the environments that shape what we repeat. It is a practical pick for readers working on consistency. Our recommendation explains who it suits and who might prefer something else."
+      "post": "A useful routine needs more than a burst of motivation. Atomic Habits by James Clear explores small changes, everyday systems, and the environments that shape what we repeat. It is a practical pick for readers working on consistency. Our recommendation explains who it suits and who might prefer something else.",
+      "isbn": "9780735211292",
+      "asin": "0735211299",
+      "format": "Hardcover",
+      "cover": "assets/covers/atomic-habits.jpg",
+      "cover_source": "https://images3.penguinrandomhouse.com/cover/9780735211292",
+      "amazon_link": "https://www.amazon.com/dp/0735211299?tag=thehiddenchap-20"
     },
     {
       "slug": "deep-work",
@@ -28,7 +34,13 @@
       "skip": "Its work-centered approach may be less useful if your role requires constant availability or you want a general guide to wellbeing.",
       "takeaway": "Think about which task deserves your undivided attention before deciding how to schedule it.",
       "source": "https://www.hachettebookgroup.com/titles/cal-newport/deep-work/9781455586677/",
-      "post": "Being busy and being focused are different experiences. Deep Work by Cal Newport makes the case for giving demanding tasks sustained attention. It is worth considering if your day feels fragmented by interruptions, though its approach will fit some jobs better than others. Read the overview before deciding whether it belongs on your shelf."
+      "post": "Being busy and being focused are different experiences. Deep Work by Cal Newport makes the case for giving demanding tasks sustained attention. It is worth considering if your day feels fragmented by interruptions, though its approach will fit some jobs better than others. Read the overview before deciding whether it belongs on your shelf.",
+      "isbn": "9781455586677",
+      "asin": "1455586676",
+      "format": "Paperback",
+      "cover": "assets/covers/deep-work.jpg",
+      "cover_source": "https://www.hachettebookgroup.com/wp-content/uploads/2021/04/9781455586677.jpg",
+      "amazon_link": "https://www.amazon.com/dp/1455586676?tag=thehiddenchap-20"
     },
     {
       "slug": "mere-christianity",
@@ -43,7 +55,13 @@
       "skip": "This is an argument for Christian belief, rather than a neutral survey of world religions or a daily devotional.",
       "takeaway": "Read it as one writer’s reasoned case, with space to question his assumptions and conclusions.",
       "source": "https://www.cslewis.com/uk/books/hardcover/mere-christianity/9780060652883/",
-      "post": "Looking for a Christian book built around ideas and arguments? Mere Christianity brings together C. S. Lewis’s wartime radio talks on morality, belief, and Christian living. It is an introduction to his case for faith rather than a daily devotional. Our overview helps you decide whether that approach fits what you want to read next."
+      "post": "Looking for a Christian book built around ideas and arguments? Mere Christianity brings together C. S. Lewis’s wartime radio talks on morality, belief, and Christian living. It is an introduction to his case for faith rather than a daily devotional. Our overview helps you decide whether that approach fits what you want to read next.",
+      "isbn": "9780060652883",
+      "asin": "0060652888",
+      "format": "Hardcover",
+      "cover": "assets/covers/mere-christianity.jpg",
+      "cover_source": "https://i.harperapps.com/covers/9780060652883/y648.jpg",
+      "amazon_link": "https://www.amazon.com/dp/0060652888?tag=thehiddenchap-20"
     },
     {
       "slug": "screwtape-letters",
@@ -58,7 +76,13 @@
       "skip": "The inverted voice can take some getting used to. Pick another book if you want direct instruction or a straightforward devotional.",
       "takeaway": "Pay attention to the gap between the narrator’s advice and the ideas Lewis invites the reader to consider.",
       "source": "https://www.cslewis.com/us/about-cs-lewis/",
-      "post": "Christian reflection does not always arrive as a devotional. The Screwtape Letters uses fictional letters from a senior devil to his nephew to explore temptation from an inverted perspective. C. S. Lewis’s satire may suit readers who like stories that invite reflection. Read our introduction if you want to know what to expect from its unusual voice."
+      "post": "Christian reflection does not always arrive as a devotional. The Screwtape Letters uses fictional letters from a senior devil to his nephew to explore temptation from an inverted perspective. C. S. Lewis’s satire may suit readers who like stories that invite reflection. Read our introduction if you want to know what to expect from its unusual voice.",
+      "isbn": "9780060652937",
+      "asin": "0060652934",
+      "format": "Paperback",
+      "cover": "assets/covers/screwtape-letters.jpg",
+      "cover_source": "https://i.harperapps.com/covers/9780060652937/y1200.jpg",
+      "amazon_link": "https://www.amazon.com/dp/0060652934?tag=thehiddenchap-20"
     },
     {
       "slug": "drawdown",
@@ -73,7 +97,13 @@
       "skip": "The book appeared in 2017. Use current research alongside it for present-day rankings, estimates, or policy decisions.",
       "takeaway": "Explore how solutions connect across systems instead of looking for a single answer.",
       "source": "https://drawdown.org/the-book",
-      "post": "Climate action is bigger than a single technology or personal habit. Drawdown, edited by Paul Hawken, gathers solutions across energy, food, land use, and more. It offers a broad starting point for curious readers. Our recommendation also explains why its 2017 estimates should be read alongside current research rather than treated as today’s rankings."
+      "post": "Climate action is bigger than a single technology or personal habit. Drawdown, edited by Paul Hawken, gathers solutions across energy, food, land use, and more. It offers a broad starting point for curious readers. Our recommendation also explains why its 2017 estimates should be read alongside current research rather than treated as today’s rankings.",
+      "isbn": "9780143130444",
+      "asin": "0143130447",
+      "format": "Paperback",
+      "cover": "assets/covers/drawdown.jpg",
+      "cover_source": "https://images3.penguinrandomhouse.com/cover/9780143130444",
+      "amazon_link": "https://www.amazon.com/dp/0143130447?tag=thehiddenchap-20"
     },
     {
       "slug": "book-of-hope",
@@ -88,7 +118,13 @@
       "skip": "Choose a different book if you want an emissions model, a policy handbook, or a technical climate-science introduction.",
       "takeaway": "Consider what helps you stay engaged with a difficult subject without looking away from it.",
       "source": "https://us.macmillan.com/books/9781250784087/thebookofhope/",
-      "post": "Some environmental books explain the systems. Others explore how people keep caring. In The Book of Hope, Jane Goodall and Douglas Abrams, with Gail Hudson, reflect on hope through conversation and stories. It may suit readers seeking perspective rather than a technical climate guide. Our overview explains where it fits alongside more practical environmental reading."
+      "post": "Some environmental books explain the systems. Others explore how people keep caring. In The Book of Hope, Jane Goodall and Douglas Abrams, with Gail Hudson, reflect on hope through conversation and stories. It may suit readers seeking perspective rather than a technical climate guide. Our overview explains where it fits alongside more practical environmental reading.",
+      "isbn": "9781250784087",
+      "asin": "1250784085",
+      "format": "Hardcover",
+      "cover": "assets/covers/book-of-hope.jpg",
+      "cover_source": "https://mpd-biblio-covers.imgix.net/9781250784087.jpg",
+      "amazon_link": "https://www.amazon.com/dp/1250784085?tag=thehiddenchap-20"
     }
   ]
 }
